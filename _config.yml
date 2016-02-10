@@ -1,0 +1,28 @@
+name: Koos Jeremiasse
+favicon: null
+layout_spectrum: 0.2571007194928825
+typography_spectrum: 0.08644703309983015
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6088133074808866
+  lightness: 0.8169917382765561
+  saturation: 0.9564564183820039
+  rhythmicContrast: 0.4645224642008543
+purpose: []
